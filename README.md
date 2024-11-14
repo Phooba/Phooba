@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Phooba
-- 👀 I’m interested in Python and C# programming
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in learning more about scripting
+- 🌱 I’m currently learning PowerShell
 
 <!---
 Phooba/Phooba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
